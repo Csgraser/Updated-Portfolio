@@ -1,0 +1,42 @@
+.connect-panel img{
+ max-width: 65px;
+}
+
+.portfolioText {
+	top: 160px;
+	background-color: #4aaaa5;
+	text-align: center;
+	max-width: 225px;
+	max-height: 40px;
+	display: block;
+	margin: 0 auto;
+}
+
+
+	.photos {
+    max-width: 225px;
+    display: block;
+		margin: 10px auto 0;
+}
+
+	#message{
+		max-width: 585px;
+		max-height: 200px;
+	
+	}
+
+	body{
+background-color:  	#484848;
+	}
+	.box{
+		background-color: 	#686868;
+		padding: 10px;
+		border: 1px solid;
+	}
+h1, p{
+		color: white;
+	}
+
+	a, #submitButton{
+		color: black;
+	}
